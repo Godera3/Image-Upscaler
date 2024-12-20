@@ -1,0 +1,42 @@
+this program was originally created on macOS but i'll make sure that it works on any OS
+  make sure that python is installed
+
+
+MacOS: 
+    open terminal 
+      run this command:   cd path/to/your/directory
+        then run this command:   python3 main.py
+          if you have python2 use this command instead:   python main.py
+
+  if you don't have python installed on your mac you can use this command:   brew install python
+
+
+Windows:
+    open cmd
+      use this command to go wherever you installed main.py:   cd C:\path\to\your\directory
+        run this command:   python main.py
+
+Linux:
+    use Ctrl + Alt + T to quickly open terminal
+      run the command   cd /path/to/your/directory (replace the path with actual path of your main.py)
+        for python3 run this command:   python3 main.py
+        for python2 run this command:   python main.py
+
+  if you don't have python on linux do the following:
+    
+    Ubuntu/Debian:
+      1. sudo apt update
+      2. sudo apt install python3
+
+    Fedora:
+      1. sudo dnf install python3
+
+    CentOS/RHEL:
+      1. sudo yum install python3
+
+
+###   if it has any problem please make sure to comment about it, this will help me to make it better.   ###
+
+
+          
+  
