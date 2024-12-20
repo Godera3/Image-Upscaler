@@ -1,2 +1,2 @@
 # Image-Upscaler
-this is a simple image upscaler program written in python. it has 3 modes, 2x 3x and 4x it modifies the pixels, as the name suggests it upscales the picture.
+This is a straightforward image upscaling program developed in Python. It features three modes: 2x, 3x, and 4x. As the name implies, it enhances the image by modifying its pixel values to increase the size.
